@@ -33,16 +33,15 @@ As a user, I want to ..... using voice Record .
 - Feature Tasks
 - Acceptance Tests
 
-
 ### Estimate your User Stories
 
- - extra small : 0-2 hours
- - extra large : day or two
+- extra small : 0-2 hours
+- extra large : day or two
 
 | story #       | estimation time |
 |:-------------:|:---------------:|
-|1|extra small|
-|2|extra small|
+|1|extra large|
+|2|extra large|
 |3|extra large|
 |4|extra large|
 |5||
